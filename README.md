@@ -16,5 +16,4 @@ Building An Armada without a soul knowing !
 - (https://img.shields.io/badge/uptime-100%25-brightgreen)
 
 ### JOB 38 : 11
-Last Git Check by me ==> Tuesday 11 August 2020 10:15:19 AM IST
-Last Git Check by me ==> Tuesday 11 August 2020 10:16:06 AM IST
+> Last Git Check by me ==> Tuesday 11 August 2020 10:18:00 AM IST
