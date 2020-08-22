@@ -19,4 +19,3 @@ You will find me a respectful, quiet, passive observer of the truth.</sub>
 
 
 ### JOB 38 : 11
-> Last Git Check by me ==> Sunday 16 August 2020 02:00:01 PM IST
