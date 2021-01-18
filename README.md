@@ -18,4 +18,4 @@ what you do with the truth once you have it. I cannot say. But let me assure you
 You will find me a respectful, quiet, passive observer of the truth.</sub>
 
 
-### JOB 38 : 11
+![DanBrown's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DanBrown47&show_icons=true&theme=chartreuse-dark)
