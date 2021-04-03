@@ -7,8 +7,7 @@ Building An Armada without a soul knowing !
 
 -  I’m currently working on my Armada
 -  I’m currently doing Bachelors in computer major
--  I’m looking to collaborate on Cybersecurity Projects
--  I’m looking for help with most bugs that I finds
+-  I’m looking for help with most helps I need.
 -  Ask me about You
 -  How to reach me: danwand47@gmail.com
 -  Pronouns: He/Him/His
