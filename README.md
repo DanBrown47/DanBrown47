@@ -1,9 +1,9 @@
-### Hi
+### Hello, مرحبًا, नमस्ते, こんにちは, നമസ്കാരം , Привет
+
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
+**I am Danwand, Nice Meeting you! 😄**  ✨ ✨
 
 
-**I am Danwand, Nice Meeting you ! 😄**  ✨ ✨
-
-Building An Armada without a soul knowing !
 
 -  I’m currently pursuing Masters in Artificial Intelligence
 -  I’m a self proclaimed code mafia
